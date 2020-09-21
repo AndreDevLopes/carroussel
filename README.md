@@ -3,12 +3,10 @@
 </h1>
 <br>
 <p align = "center">
-    Criado Carroussel Animado usando o React Native e expo.
+    Criado Carroussel Animado usando o React Native e expo.Nesse projeto foi usado uma interface de alto desempenho para renderizar listas simples e básicas.
 </p>
 <br>
-<p align = "center">
-    Nesse projeto foi usado uma interface de alto desempenho para renderizar listas simples e básicas.
-</p>
+
 
 
  <div align = "center">
